@@ -289,3 +289,7 @@ Answer
     "responseType": "FINAL"
 }
 ```
+
+
+List conversations v2
+https://global-dialogflow.googleapis.com/v2/projects/hospitality-demo-361210/locations/global/conversations/
